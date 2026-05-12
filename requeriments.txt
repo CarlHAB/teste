@@ -1,0 +1,5 @@
+# Dependências do projeto - Jogo: O que você prefere?
+# Instale com: npm install
+
+node-fetch@2
+@vitalets/google-translate-api
